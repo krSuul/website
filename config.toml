@@ -119,32 +119,3 @@ name = "Contact me"
 weight = 5
 url = "contact/"
 
-[languages.kr]
-languageName = "한글"
-title = "김주원"
-
-[languages.kr.params]
-author = "김주원"
-info = ["데이터 과학자", "프로그래머"]
-description = "Sítio pessoal de João Ninguém"
-keywords = "blog,desenvolvedor,pessoal"
-
-[[languages.kr.menu.main]]
-name = "대해"
-weight = 1
-url = "about/"
-
-[[languages.kr.menu.main]]
-name = "블로그"
-weight = 2
-url = "posts/"
-
-[[languages.kr.menu.main]]
-name = "프로젝트"
-weight = 3
-url = "projects/"
-
-[[languages.kr.menu.main]]
-name = "연락"
-weight = 5
-url = "contact/"
