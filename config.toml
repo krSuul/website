@@ -15,6 +15,7 @@ enableEmoji = true
 author = "John Doe"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "John Doe's personal website"
+min_version = "0.79.0"
 keywords = "blog,developer,personal"
 info = ["Full Stack DevOps", "Magician"]
 avatarURL = "images/avatar.jpg"
@@ -192,8 +193,4 @@ url = "projects/"
 [[languages.pt-br.menu.main]]
 name = "Contato"
 weight = 5
-<<<<<<< HEAD
 url = "contact/"
-=======
-url = "contact/"
->>>>>>> 6c2776f17112d7ed7c8a6d52f3741b5e8f9b543b
